@@ -1,0 +1,8 @@
+{
+  "code" : "pro2003",
+  "name" : "A Complete History of the Rise and Fall of the Roman Empire",
+  "description" : "An authoritative and accessible account of Roman imperial, military and political power, and of classical Rome's far-reaching influence in art, architecture and culture; illustrated with 1000 photographs, paintings, maps and battleplans.",
+  "price" : 18.90,
+  "currency" : "$",
+  "icon" : "http://localhost:4567/images/product/cat001/pro2003.jpg"
+}

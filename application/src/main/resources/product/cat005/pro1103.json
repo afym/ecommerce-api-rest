@@ -1,0 +1,8 @@
+{
+  "code" : "pro1103",
+  "name" : "Holy Bible: King James Version, 1611 Edition",
+  "description" : "No other book has so profoundly influenced our language and our theology. Over time, however, the text has suffered subtle and occasionally troublesome alterations.",
+  "price" : 7.97,
+  "currency" : "$",
+  "icon" : "http://localhost:4567/images/product/cat005/pro1103.jpg"
+}

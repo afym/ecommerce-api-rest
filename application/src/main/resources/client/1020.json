@@ -1,0 +1,10 @@
+{
+  "id" : 1020,
+  "name" : "Peter",
+  "surname" : "Rocks Roses",
+  "email" : "peter1223@gmail.com",
+  "password" : "5F4DCC3B5AA765D61D8327DEB882CF99",
+  "picture" : "http://localhost:4567/images/client/1020.jpg",
+  "gender" : "M",
+  "created" : "2017-01-12 01:22:23"
+}

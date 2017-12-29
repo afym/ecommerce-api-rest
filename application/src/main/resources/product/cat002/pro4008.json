@@ -1,0 +1,8 @@
+{
+  "code" : "pro4008",
+  "name" : "Introduction to Networking: How the Internet Works",
+  "description" : "This book demystifies the amazing architecture and protocols of computers as they communicate over the Internet.  While very complex, the Internet operates on a few relatively simple concepts that anyone can understand..",
+  "price" : 9.99,
+  "currency" : "$",
+  "icon" : "http://localhost:4567/images/product/cat002/pro4008.jpg"
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "pro1101",
+  "name" : "The Trojan War",
+  "description" : "In this retelling of the Trojan War, Olivia Coolidge crafts heroes and gods into real, multidimensional characters, not just the figures of legend.",
+  "price" : 5.95,
+  "currency" : "$",
+  "icon" : "http://localhost:4567/images/product/cat005/pro1101.jpg"
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "pro4004",
+  "name" : "Algorithms Illuminated: Part 1: The Basics",
+  "description" : "Algorithms are the heart and soul of computer science. Their applications range from network routing and computational genomics to public-key cryptography and machine learning.",
+  "price" : 17.99,
+  "currency" : "$",
+  "icon" : "http://localhost:4567/images/product/cat002/pro4004.jpg"
+}

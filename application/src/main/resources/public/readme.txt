@@ -1,0 +1,1 @@
+A non secure image directory =)
